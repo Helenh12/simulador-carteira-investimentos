@@ -1,0 +1,8 @@
+# Arquivos temporários do Excel (criados enquanto a planilha está aberta)
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
